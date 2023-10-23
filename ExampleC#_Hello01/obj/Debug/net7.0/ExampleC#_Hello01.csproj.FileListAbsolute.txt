@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documents\C#Example01\ExampleC#_Hello01\bin\Debug\net7.0\ExampleC#_Hello01.exe
+C:\Users\User\OneDrive\Documents\C#Example01\ExampleC#_Hello01\bin\Debug\net7.0\ExampleC#_Hello01.deps.json
+C:\Users\User\OneDrive\Documents\C#Example01\ExampleC#_Hello01\bin\Debug\net7.0\ExampleC#_Hello01.runtimeconfig.json
+C:\Users\User\OneDrive\Documents\C#Example01\ExampleC#_Hello01\bin\Debug\net7.0\ExampleC#_Hello01.dll
+C:\Users\User\OneDrive\Documents\C#Example01\ExampleC#_Hello01\bin\Debug\net7.0\ExampleC#_Hello01.pdb
+C:\Users\User\OneDrive\Documents\C#Example01\ExampleC#_Hello01\obj\Debug\net7.0\ExampleC#_Hello01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documents\C#Example01\ExampleC#_Hello01\obj\Debug\net7.0\ExampleC#_Hello01.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documents\C#Example01\ExampleC#_Hello01\obj\Debug\net7.0\ExampleC#_Hello01.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documents\C#Example01\ExampleC#_Hello01\obj\Debug\net7.0\ExampleC#_Hello01.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documents\C#Example01\ExampleC#_Hello01\obj\Debug\net7.0\ExampleC#_Hello01.dll
+C:\Users\User\OneDrive\Documents\C#Example01\ExampleC#_Hello01\obj\Debug\net7.0\refint\ExampleC#_Hello01.dll
+C:\Users\User\OneDrive\Documents\C#Example01\ExampleC#_Hello01\obj\Debug\net7.0\ExampleC#_Hello01.pdb
+C:\Users\User\OneDrive\Documents\C#Example01\ExampleC#_Hello01\obj\Debug\net7.0\ExampleC#_Hello01.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documents\C#Example01\ExampleC#_Hello01\obj\Debug\net7.0\ref\ExampleC#_Hello01.dll
